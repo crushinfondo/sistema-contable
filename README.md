@@ -1,1 +1,1 @@
-# sistema-contable
+# Sistema contable
