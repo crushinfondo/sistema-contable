@@ -1,0 +1,32 @@
+Gestion de organizaciones
+	Alta, baja y modificacion de organizaciones
+	Datos para el remito
+	Datos para la factura
+Gestion de usuarios
+	Alta, baja, modificacion de usuarios
+	Jerarquia de usuarios
+Gestion de clientes
+	Alta, baja, modificacion de clientes
+Gestion de proveedores
+	Alta, baja, modificacion de proveedores
+Gestion de productos
+	Alta, baja y modificacion de productos
+	Valor de alerta de stock
+	Facil modificacion de precios
+	Carga de precio de costo y precio al publico
+Al momento de desuscribirte, obtener datos a un excel
+Venta
+	Control de stock
+		Que al llegar un proveedor, se genere el stock correspondiente
+		Que al realizar una venta, el stock se reduzca automaticamente
+		Que avise cuando el stock de un producto llegue a un valor predeterminado (Alerta)
+	Gestion de remitos
+	Gestion de facturas (ver si es legal o no)
+
+
+
+Balances
+	Calculos por dia, semana, mes
+Estadisticas
+	Generar graficos por producto, tipo de producto, nombre de cliente, nombre de proveedor, 
+	por vendedor, por tiempo
