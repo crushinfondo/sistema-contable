@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"album",
+				"albumSeleccionado"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"files",
+				"filesToUpload\tproperty"
+			],
+			[
+				"new",
+				"newSong\tlet"
+			],
+			[
+				"albu",
+				"albumSeleccionado\tproperty"
+			],
+			[
+				"Ar",
+				"Array\tvar"
+			],
+			[
+				"art",
+				"artistaPorDefecto\tproperty"
+			],
+			[
+				"artista",
+				"artista"
+			],
+			[
+				"so",
+				"sort\tmethod"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"Album",
+				"AlbumDetailComponent\talias"
+			],
+			[
+				"a",
+				"album-detail.component\tscript"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"faCloud",
+				"faCloudDrizzle"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"songs",
+				"songs\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"get-image-",
+				"get-image-album"
+			],
+			[
+				"alb",
+				"albumSeleccionado\tproperty"
+			],
+			[
+				"alm",
+				"album\tproperty"
+			],
+			[
+				"artist",
+				"artistaPorDefecto"
+			],
+			[
+				"todo",
+				"todosLosAlbums\tproperty"
+			],
+			[
+				"todos",
+				"todosLosArtistas\tproperty"
+			],
+			[
+				"artis",
+				"artistaPorDefecto\tproperty"
+			],
+			[
+				"sele",
+				"artistaSeleccionado\tproperty"
+			],
+			[
+				"id",
+				"_id\tproperty"
+			],
+			[
+				"s",
+				"song\tscript"
+			],
+			[
+				"al",
+				"album\tscript"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"backgroun",
+				"background-size\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"_",
+				"_route\tproperty"
+			],
+			[
+				"Artist",
+				"ArtistService"
+			],
+			[
+				"Arti",
+				"ArtistServiceComponent\talias"
+			],
+			[
+				"ar",
+				"artist-edit.component\tscript"
+			],
+			[
+				"c",
+				"components\tdirectory"
+			],
+			[
+				"alert",
+				"alertSuccess"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"path",
+				"pathMatch\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"MARGIN",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Upl",
+				"_uploadService"
+			],
+			[
+				"d",
+				"dataOutput"
+			],
+			[
+				"user",
+				"userToUpdate\tproperty"
+			],
+			[
+				"foR",
+				"forRoot\tmethod"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"col-lg-",
+				"col-lg-6"
+			],
+			[
+				"t",
+				"token\tproperty"
+			],
+			[
+				"g",
+				"getIdentity\tmethod"
+			],
+			[
+				"get",
+				"getItem\tmethod"
+			],
+			[
+				"use",
+				"userToLogin\tparameter"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"err",
+				"errorMessageLogin\tproperty"
+			],
+			[
+				"si",
+				"signUp\tmethod"
+			],
+			[
+				"Acc",
+				"Access-Control-Allow-Headers"
+			],
+			[
+				"getAlbumsB",
+				"getAlbumsByTitle\tproperty"
+			],
+			[
+				"getS",
+				"getSongsByAlbum"
+			],
+			[
+				"find",
+				"findById\twarning"
+			],
+			[
+				"uplo",
+				"uploadImage\tproperty"
+			],
+			[
+				"upd",
+				"updateUser\tproperty"
+			],
+			[
+				"String",
+				"String\tvar"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"_rou",
+				"_router\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"Proj",
+				"Project\talias"
+			],
+			[
+				"p",
+				"project.service\tscript"
+			],
+			[
+				"ser",
+				"services\tdirectory"
+			],
+			[
+				"mod",
+				"models\tdirectory"
+			],
+			[
+				"fil",
+				"filesToUpload\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"Http",
+				"HttpHeaders\talias"
+			],
+			[
+				"pro",
+				"project\tscript"
+			],
+			[
+				"Form",
+				"FormsModule\talias"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text-h",
+				"text-anchor\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"up",
+				"updateProject\tproperty"
+			],
+			[
+				"del",
+				"deleteProject\tproperty"
+			],
+			[
+				"proje",
+				"project\tlocal var"
+			],
+			[
+				"Pro",
+				"ProjectController\tvar"
+			],
+			[
+				"project",
+				"PromiseRejectionEvent\tvar"
+			],
+			[
+				"n",
+				"nuevoUser\tproperty"
+			],
+			[
+				"Htt",
+				"HttpHeaders\talias"
+			],
+			[
+				"Con",
+				"ContactoComponent\talias"
+			],
+			[
+				"rxjs",
+				"rxjs-compat\texternal module name"
+			],
+			[
+				"node",
+				"node_modules\tdirectory"
+			],
+			[
+				"zapa",
+				"ZapatillaService"
+			],
+			[
+				"Zapa",
+				"ZapatillaService\talias"
+			],
+			[
+				"ho",
+				"homeIdentificado\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"zapatillas",
+				"zapatillas"
+			],
+			[
+				"Video",
+				"VideojuegoComponent\talias"
+			],
+			[
+				"index",
+				"indexOf\tmethod"
+			],
+			[
+				"marca",
+				"marcaAEliminar\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"inde",
+				"indexOf\tmethod"
+			],
+			[
+				"A",
+				"Array\tvar"
+			],
+			[
+				"Camiseta",
+				"CamisetaBase"
+			],
+			[
+				"block",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install Pa\t",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable"
+	],
+	"file_history":
+	[
+		"/C/cygwin packages/home/Agust/.bash_profile",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/upload.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/song-add-multiple.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/controllers/song.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/song-add.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/controllers/album.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/assets/css/styles.css",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/app.module.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/song-add.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/song-add-multiple.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/album-detail.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/album-add.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/album-add.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-detail.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/artist-detail.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/app.routing.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/player.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-list.component.mjs",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/angular.json",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/app.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/app.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/startbootstrap-creative-gh-pages/index.html",
+		"/C/Users/Agust/Documents/Proyectos/email-confirmacion/index.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/user.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/services/configMensaje.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/app.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/album-detail.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/player.component.ts",
+		"/C/cygwin packages/home/Agust/.profile",
+		"/C/Users/Agust/Desktop/UNLaM/1c 2020/Sistemas Operativos/TP2/salida.out",
+		"/C/Users/Agust/Desktop/UNLaM/1c 2020/Sistemas Operativos/TP2/test10",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/index.html",
+		"/C/Users/Agust/Documents/Proyectos/startbootstrap-creative-gh-pages/css/styles.css",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/landing.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/validate.html",
+		"/C/Users/Agust/Documents/Proyectos/Login_v18/index.html",
+		"/C/Users/Agust/Downloads/Alerta de seguridad - accesos.seguridad.noreply@gmail.com - Gmail.html",
+		"/C/Users/Agust/Downloads/gophish-v0.9.0-windows-64bit/README.md",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/album.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/controllers/artist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/artist-list.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/artist-add.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/song.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/package.json",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/assets/jquery-isystkSlider.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/models/song.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/artist.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/routes/artist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/models/album.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-list.component.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/routes/song.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-list.component.ts",
+		"/C/Users/Agust/Desktop/UNLaM/1c 2020/Sistemas Operativos/TP1/salida.out",
+		"/C/xampp/htdocs/test/login.html",
+		"/C/Users/Agust/Downloads/indextest.html",
+		"/C/xampp/htdocs/test/js/main.js",
+		"/C/xampp/htdocs/test/test.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-edit.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/routes/spotify-api.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/controllers/spotify-api.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/artist-add.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/home.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/home.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/models/user.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/user-edit.html",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/components/user-edit.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/controllers/user.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/api/models/user.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/node_modules/@angular/common/http/http.d.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/global.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/models/artist.ts",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/app.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/routes/song.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/controllers/song.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/controllers/user.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/controllers/album.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/routes/album.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/models/album.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/models/song.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/package.json",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/models/playlist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/models/user.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/models/artist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/routes/artist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/controllers/artist.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/middlewares/authenticated.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/services/jwt.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/routes/user.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/index.js",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/package-lock.json",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/musicapp/package.json",
+		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/musicapp/package-lock.json",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/assets/css/styles.css",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/services/project.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/app.routing.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/create/create.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/app.module.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/models/project.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/about/about.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-js/index.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-js/css/styles.css",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/services/global.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/components/about/about.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/src/app/app.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/proyecto-angular/angular.json",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/backend/models/project.js",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/backend/package.json",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/backend/calculadora.js",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/services/peticiones.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/externo/externo.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/externo/externo.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/contacto/contacto.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/contacto/contacto.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/models/usuario.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.routing.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/home/home.component.html",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.module.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/services/zapatilla.service.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/zapatillas/zapatillas.component.ts",
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/home/home.component.ts"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
