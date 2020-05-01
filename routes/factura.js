@@ -7,14 +7,13 @@ var api = express.Router();
 var md_auth = require('../middlewares/authenticated');
 
 var multipart = require('connect-multiparty');
-var md_upload = multipart({uploadDir: './uploads/factura'}); 
+var md_upload = multipart({uploadDir: './uploads/facturas'}); 
 
-api.post('/factura', md_auth.ensureAuth, FacturaController.crearFactura);					//	Crear cliente
-api.put('/factura/:id', md_auth.ensureAuth, FacturaController.editarFactura);				//	Editar cliente
-api.delete('/factura/:id', md_auth.ensureAuth, FacturaController.eliminarFactura);			//	Eliminar cliente
-api.get('/factura/:id', md_auth.ensureAuth, FacturaController.obtenerFactura);				// 	Obtener cliente
-api.get('/obtener-cuit-factura/:id', md_auth.ensureAuth, FacturaController.obtenerCuit)			//	Obtener el Cuit
-api.get('/obtener-estado-factura/:id', md_auth.ensureAuth, FacturaController.obtenerEstado)		//	Obtener el Estado
-api.get('/obtener-fechaCreacion-factura/:id', md_auth.ensureAuth, FacturaController.obtenerFechaCreacion)		//Obtener Fecha de Creacion
+api.post('/factura', md_auth.ensureAuth, FacturaController.crearFactura);					//	Crear factura
+api.put('/factura/:id', md_auth.ensureAuth, FacturaController.editarFactura);				//	Editar factura
+api.delete('/factura/:id', md_auth.ensureAuth, FacturaController.eliminarFactura);			//	Eliminar factura
+api.get('/factura/:id', md_auth.ensureAuth, FacturaController.obtenerFactura);				// 	Obtener factura
+api.post('/subir-archivo-factura/:id', [md_auth.ensureAuth, md_upload], FacturaController.subirArchivo);	//	Subir archivo factura
+api.get('/obtener-archivo-factura/:file', FacturaController.obtenerArchivo);							//  Obtener archivo factura
 
 module.exports = api;

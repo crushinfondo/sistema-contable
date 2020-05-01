@@ -12,6 +12,7 @@ var UsuarioSchema = Schema({
 	password: String,
 	fechaCreacion: Date,
 	imagen: String,
+	sucursal: Number,
 	organizacion: { type: Schema.Types.ObjectId, ref: 'Organizacion' }
 });
 

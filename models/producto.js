@@ -11,6 +11,7 @@ var ProductoSchema = Schema({
 	stockmaximo: Number,
 	stockminimo: Number,
 	fechaCreacion: Date,
+	sucursal: Number,
 	categoriaproducto: { type: Schema.Types.ObjectId, ref: 'CategoriaProducto' }
 });
 

@@ -9,7 +9,6 @@ var VentaSchema = Schema({
 	fechavencimiento: String,
 	observacion: String,
 	archivo: String,
-	imagen: String,
 	usuario: { type: Schema.Types.ObjectId, ref: 'Usuario' },
 	cliente: { type: Schema.Types.ObjectId, ref: 'Cliente' },
 	formadepago: { type: Schema.Types.ObjectId, ref: 'FormaDePago' },

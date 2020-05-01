@@ -7,7 +7,6 @@ var ClienteSchema = Schema({
 	nombre: String,
 	razonSocial: Number,
 	fechaCreacion: Date,
-	imagen: String,
 	organizacion: { type: Schema.Types.ObjectId, ref: 'Organizacion' }
 });
 
