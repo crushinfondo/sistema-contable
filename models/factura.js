@@ -15,4 +15,4 @@ var FacturaSchema = Schema({
 	venta: { type: Schema.Types.ObjectId, ref: 'Venta' }
 });
 
-module.exports = mongoose.model('Cliente', FacturaSchema);
+module.exports = mongoose.model('Factura', FacturaSchema);
