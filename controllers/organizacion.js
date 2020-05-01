@@ -143,10 +143,10 @@ function obtenerImagen(req, res){
 }
 
 module.exports = {
-	crearCategoriaProducto,
-	editarCategoriaProducto,
-	eliminarCategoriaProducto,
-	obtenerCategoriaProducto,
+	crearOrganizacion,
+	editarOrganizacion,
+	eliminarOrganizacion,
+	obtenerOrganizacion,
 	subirImagen,
 	obtenerImagen
 };

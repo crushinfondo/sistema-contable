@@ -6,7 +6,7 @@ module.exports = (email) => {
  service: 'gmail',
  auth: {
  			user: 'informacion.glosh@gmail.com',
- 			pass: 'Agus9797'
+ 			pass: ''
 	 	}
  });
 const mailOptions = {

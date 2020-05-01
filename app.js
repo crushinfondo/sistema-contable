@@ -8,7 +8,7 @@ var app = express();
 
 // Cargo rutas
 
-var categoria_routes = require('./routes/categoria');
+var categoria_routes = require('./routes/categoriaproducto');
 var cliente_routes = require('./routes/cliente');
 var factura_routes = require('./routes/factura');
 var formadepago_routes = require('./routes/formadepago');
@@ -16,7 +16,6 @@ var organizacion_routes = require('./routes/organizacion');
 var producto_routes = require('./routes/producto');
 var proveedor_routes = require('./routes/proveedor');
 var remito_routes = require('./routes/remito');
-var rol_routes = require('./routes/rol');
 var suscripcion_routes = require('./routes/suscripcion');
 var usuario_routes = require('./routes/usuario');
 var venta_routes = require('./routes/venta');
@@ -44,7 +43,6 @@ app.use('/api', organizacion_routes);
 app.use('/api', producto_routes);
 app.use('/api', proveedor_routes);
 app.use('/api', remito_routes);
-app.use('/api', rol_routes);
 app.use('/api', suscripcion_routes);
 app.use('/api', usuario_routes);
 app.use('/api', venta_routes);
