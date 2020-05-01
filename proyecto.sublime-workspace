@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"proveedor\tscript"
+			],
+			[
+				"pr",
+				"producto\tscript"
+			],
+			[
+				"for",
+				"formadepago\tscript"
+			],
+			[
+				"factura",
+				"factura\tscript"
+			],
+			[
 				"mar",
 				"margin-top\tproperty"
 			],
@@ -364,10 +380,6 @@
 				"Project\talias"
 			],
 			[
-				"p",
-				"project.service\tscript"
-			],
-			[
 				"ser",
 				"services\tdirectory"
 			],
@@ -502,23 +514,20 @@
 			[
 				"inde",
 				"indexOf\tmethod"
-			],
-			[
-				"A",
-				"Array\tvar"
-			],
-			[
-				"Camiseta",
-				"CamisetaBase"
-			],
-			[
-				"block",
-				"inline-block\tdisplay"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "models/factura.js",
+			"settings":
+			{
+				"buffer_size": 323,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -556,10 +565,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable"
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/models",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/routes"
 	],
 	"file_history":
 	[
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/models/cliente.js",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/index.js",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/package.json",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/app.js",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/models/categoria.js",
+		"/C/Users/Agust/Documents/Proyectos/Sistema-Contable/sistema-contable/controllers/organizacion.js",
 		"/C/cygwin packages/home/Agust/.bash_profile",
 		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/services/upload.service.ts",
 		"/C/Users/Agust/Documents/Proyectos/Curso MEAN - Victor Robles/glosh/gloshclient/src/app/views/song-add-multiple.html",
@@ -681,13 +698,7 @@
 		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/contacto/contacto.component.html",
 		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/contacto/contacto.component.ts",
 		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/models/usuario.ts",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.component.html",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.routing.ts",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/home/home.component.html",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.module.ts",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/services/zapatilla.service.ts",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/zapatillas/zapatillas.component.ts",
-		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/home/home.component.ts"
+		"/C/Users/Agust/Documents/Proyectos/Master JavaScript - Victor Robles/aprendiendo-angular2/src/app/app.component.html"
 	],
 	"find":
 	{
@@ -722,8 +733,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "models/factura.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -808,7 +849,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 318.0,
+	"side_bar_width": 199.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
