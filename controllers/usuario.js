@@ -37,22 +37,69 @@ function crearUsuario(req, res){
 	usuario.sucursal = params.sucursal;
 	usuario.organizacion = params.organizacion;
 
-	if(usuario.nombre != null){
-		usuario.save((err, usuarioStored)=>{
-			if(err){
-				res.status(500).send({message:"Error al guardar el usuario"});
+	if(params.password){
+		bcrypt.hash(params.password, null, null, function(err, hash){
+			usuario.password = hash;
+			if(usuario.nombre != null && usuario.email != null){
+				usuario.save((err, usuarioStored)=>{
+					if(err){
+						console.log(err);
+						res.status(500).send({message:"Ya existe un usuario registrado con esos datos"});
+					}else{
+						if(!usuarioStored){
+							res.status(400).send({message:"No se ha registrado el usuario"});	
+						}else{
+							res.status(200).send({usuario:usuarioStored});
+						}
+					}
+				});
 			}else{
-				if(!usuarioStored){
-					res.status(400).send({message:"No se ha registrado el usuario"});	
-				}else{
-					res.status(200).send({usuario:usuarioStored});
-				}
+				res.status(200).send({message:"Rellena todos los campos"});
 			}
 		});
-	}else{
-		res.status(200).send({message:"Rellena todos los campos"});
 	}
+	else{
+		res.status(200).send({message:"Introduce la contraseña"});
+	}	
+
 }
+
+
+function loginUsuario(req, res){
+	var params = req.body;
+
+	var email = params.email;
+	var password = params.password;
+
+	Usuario.findOne({email: email}, (err,usuario)=> {
+		if (err){
+			res.status(500).send({message: "Error en la peticion"});
+		}else{
+			if(!usuario){
+				res.status(404).send({message: "El correo y/o la contraseña no coinciden con nuestros registros."});
+			}else{
+				//Comprobar password
+				bcrypt.compare(password, usuario.password, function(err, check){
+					if(check){
+						//Devolver datos del usuario logueado
+						if(params.getHash){
+							//Devolver un token de JWT
+							res.status(200).send({
+								token: jwt.createToken(usuario)
+							});
+						}
+						else{
+							res.status(200).send({usuario});
+						}
+					}else{
+						res.status(404).send({message: "El correo y/o la contraseña no coinciden con nuestros registros."});
+					}
+				});
+			}
+		}
+	});
+}
+
 
 function editarUsuario(req, res){
 	var usuarioId = req.params.id;
@@ -134,12 +181,11 @@ function obtenerImagen(req, res){
 			res.status(200).send({message: "La imagen no existe"});	
 		}
 	});
-
-
 }
 
 module.exports = {
 	crearUsuario,
+	loginUsuario,
 	editarUsuario,
 	eliminarUsuario,
 	obtenerUsuario,

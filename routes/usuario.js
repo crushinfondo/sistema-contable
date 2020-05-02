@@ -9,7 +9,8 @@ var md_auth = require('../middlewares/authenticated');
 var multipart = require('connect-multiparty');
 var md_upload = multipart({uploadDir: './uploads/usuarios'}); 
 
-api.post('/usuario', md_auth.ensureAuth, UsuarioController.crearUsuario);					//	Crear usuario
+api.post('/usuario', UsuarioController.crearUsuario);										//	Crear usuario
+api.post('/login', UsuarioController.loginUsuario);											// Login usuario
 api.put('/usuario/:id', md_auth.ensureAuth, UsuarioController.editarUsuario);				//	Editar usuario
 api.delete('/usuario/:id', md_auth.ensureAuth, UsuarioController.eliminarUsuario);			//	Eliminar usuario
 api.get('/usuario/:id', md_auth.ensureAuth, UsuarioController.obtenerUsuario);				// 	Obtener usuario
